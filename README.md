@@ -1,6 +1,4 @@
-# Codebender AI Template
-
-This project is a template code to start any AI project.
+# Codebender AI Chatbot
 
 It's a chat interface that allows you to talk with the Last Codebender. You can send him text messages by clicking on the text button or request an AI art image by clicking on the image button.
 
